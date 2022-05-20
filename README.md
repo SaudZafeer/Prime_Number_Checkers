@@ -24,4 +24,4 @@ python main.py
 
 ## Code Snippet
 
-![My prime number checker code](https://github.com/SaudZafeer/Prime_Number_Checkers/blob/47367a1960741e01fa77d21b43e11d61a973c1f4/image/carbon%20(1).png)
+![My prime number checker code](https://github.com/SaudZafeer/Prime_Number_Checkers/blob/36ac3103d2aa1e972c25b04a6e687a50e36cd340/image/carbon%20(2).png)
