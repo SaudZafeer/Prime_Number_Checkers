@@ -1,3 +1,4 @@
+#created a function to check prime numbers
 def check_prime(number : int):
     flag = False
     if number > 1:
